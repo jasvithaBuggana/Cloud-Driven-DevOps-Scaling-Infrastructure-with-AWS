@@ -27,7 +27,3 @@ This repository outlines the setup of a complete CI/CD (Continuous Integration/C
 - **CI/CD Server**: Jenkins
 - **Monitoring**: Prometheus, Grafana
 - **Notification**: Email notifications via Jenkins
-
-## Acknowledgements
-
-[DEVOPS SHACK](https://www.youtube.com/@devopsshack)
