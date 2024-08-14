@@ -4,7 +4,7 @@
 
 This repository outlines the setup of a complete CI/CD (Continuous Integration/Continuous Deployment) pipeline for corporate environments, leveraging AWS EC2 instances for infrastructure setup and deployment.
 
-## Table of Contents
+## Steps involved
 1. [Initial Setup](01_Initial_Setup/README.md)
 2. [EC2 Instances Setup](02_EC2_Instances_Setup/README.md)
    - [AWS Setup](02_EC2_Instances_Setup/00_aws_setup/README.md)
